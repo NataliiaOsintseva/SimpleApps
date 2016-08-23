@@ -1,0 +1,6 @@
+C:\Users\nos\Apps\Simple Apps\SimpleApps\DelegateMath\bin\Debug\DelegateMath.exe.config
+C:\Users\nos\Apps\Simple Apps\SimpleApps\DelegateMath\bin\Debug\DelegateMath.exe
+C:\Users\nos\Apps\Simple Apps\SimpleApps\DelegateMath\bin\Debug\DelegateMath.pdb
+C:\Users\nos\Apps\Simple Apps\SimpleApps\DelegateMath\obj\Debug\DelegateMath.csprojResolveAssemblyReference.cache
+C:\Users\nos\Apps\Simple Apps\SimpleApps\DelegateMath\obj\Debug\DelegateMath.exe
+C:\Users\nos\Apps\Simple Apps\SimpleApps\DelegateMath\obj\Debug\DelegateMath.pdb
